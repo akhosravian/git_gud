@@ -21,7 +21,6 @@ void AGitActor::BeginPlay()
 void AGitActor::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-
-	// ~whatever~
+	// tim is amazing!!
 }
 
